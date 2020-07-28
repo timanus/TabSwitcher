@@ -36,3 +36,4 @@ infoMenu.addEventListener('click', function(event) {
 		}
 	}
 });
+
